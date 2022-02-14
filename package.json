@@ -1,0 +1,22 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Testando o AR.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ar",
+    "js",
+    "test",
+    "cam"
+  ],
+  "author": "Ja1",
+  "license": "ISC",
+  "dependencies": {
+    "ar.js": "^2.2.2",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
